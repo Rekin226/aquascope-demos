@@ -1,0 +1,19 @@
+.DS_Store
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# OS / editor
+.idea/
+.vscode/
+*.swp
