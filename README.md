@@ -23,6 +23,7 @@ Self-contained, reproducible Jupyter notebooks on real data — every headline r
 | 03 | [FAO-56 ET₀ and rice crop water — Bangkok](03_bangkok_eto_rice/)                       | FAO-56 Example 18 + Open-Meteo daily, 2024 wet season | Penman-Monteith · Kc curves · soil water balance | FAO-56 Example 18 (5.0 mm/day) and CLIMWAT Bangkok climatic norms |
 | 04 | [Mann-Kendall trend & Pettitt change-point — Red River at Grand Forks](04_red_river_trend/) | USGS gauge 05082500 · annual peaks 1882–2025         | Mann-Kendall · Sen's slope · Pettitt · PELT     | Ryberg et al. (2014) J. Hydrol. Eng.; Vecchia (2008) USGS SIR  |
 | 05 | [Bivariate flood copula — Potomac peak/volume](05_potomac_copula/)                     | USGS gauge 01646500 · daily 1950–2025                | Gaussian/Clayton/Gumbel/Frank · joint return periods | Salvadori & De Michele (2004) WRR; Genest & Favre (2007) JHE  |
+| 06 | [Taiwan RPI & DO trend — Tamsui River basin](06_tamsui_water_quality/)                 | Taiwan MOENV dataset AQX_P_07 · multi-station WQ     | AI recommender · Taiwan RPI · Mann-Kendall      | Taiwan EPA RPI methodology; Chen & Liu (2003) EMA; Liu et al. (2019) Water |
 
 Every case fetches its own data at run time, runs the analysis end-to-end, generates the committed plots in `outputs/`, and prints a side-by-side comparison against the published reference.
 
