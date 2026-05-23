@@ -16,9 +16,13 @@ Self-contained, reproducible Jupyter notebooks on real data — every headline r
 
 ## Cases
 
-| #  | Title                                                                                 | Data                                       | Methods                            | Validated against                                |
-|----|---------------------------------------------------------------------------------------|--------------------------------------------|------------------------------------|--------------------------------------------------|
-| 01 | [Bulletin 17C flood frequency — Potomac at Little Falls](01_potomac_flood_frequency/) | USGS gauge 01646500 · 1931–2025 · n = 80   | LP3 · GEV (L-moments) · Q-Q & P-P  | FEMA DC FIS (2010) Table 4 — within ±10 %        |
+| #  | Title                                                                                  | Data                                                | Methods                                          | Validated against                                              |
+|----|----------------------------------------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------|
+| 01 | [Bulletin 17C flood frequency — Potomac at Little Falls](01_potomac_flood_frequency/)  | USGS gauge 01646500 · 1931–2025 · n = 80            | LP3 · GEV (L-moments) · Q-Q & P-P                | FEMA DC FIS (2010) Table 4 — within ±10 %                      |
+| 02 | [Baseflow & hydrological signatures — French Broad at Asheville](02_french_broad_baseflow/) | USGS gauge 03451500 · 1995–2025 daily                | Lyne-Hollick + Eckhardt filters · 22 signatures | Wolock (2003) USGS OFR 03-263; Santhi et al. (2008) JoH        |
+| 03 | [FAO-56 ET₀ and rice crop water — Bangkok](03_bangkok_eto_rice/)                       | FAO-56 Example 18 + Open-Meteo daily, 2024 wet season | Penman-Monteith · Kc curves · soil water balance | FAO-56 Example 18 (5.0 mm/day) and CLIMWAT Bangkok climatic norms |
+| 04 | [Mann-Kendall trend & Pettitt change-point — Red River at Grand Forks](04_red_river_trend/) | USGS gauge 05082500 · annual peaks 1882–2025         | Mann-Kendall · Sen's slope · Pettitt · PELT     | Ryberg et al. (2014) J. Hydrol. Eng.; Vecchia (2008) USGS SIR  |
+| 05 | [Bivariate flood copula — Potomac peak/volume](05_potomac_copula/)                     | USGS gauge 01646500 · daily 1950–2025                | Gaussian/Clayton/Gumbel/Frank · joint return periods | Salvadori & De Michele (2004) WRR; Genest & Favre (2007) JHE  |
 
 Every case fetches its own data at run time, runs the analysis end-to-end, generates the committed plots in `outputs/`, and prints a side-by-side comparison against the published reference.
 
