@@ -46,13 +46,20 @@ See `outputs/`:
 
 ## Validation
 
-**Reference:** Wolock, D.M. (2003). *Base-flow index grid for the conterminous United States.* U.S. Geological Survey Open-File Report 03-263 ([pubs.usgs.gov/of/2003/ofr03263](https://pubs.usgs.gov/of/2003/ofr03263/)). Wolock's 1-km national grid gives BFI estimates from the USGS BFI program (Wahl & Wahl 1988) for around 7,000 gauges. For Southern Appalachian humid mountain basins, published BFI values cluster between 0.45 and 0.65 (Santhi et al. 2008, *J. Hydrol.* 351, 139-153, doi:[10.1016/j.jhydrol.2007.12.018](https://doi.org/10.1016/j.jhydrol.2007.12.018), Table 2: Southeast region mean BFI 0.55, σ ≈ 0.10).
+**References:** Wolock, D.M. (2003). *Base-flow index grid for the conterminous United States.* U.S. Geological Survey Open-File Report 03-263 ([pubs.usgs.gov/of/2003/ofr03263](https://pubs.usgs.gov/of/2003/ofr03263/)) for the PART-derived national BFI grid. Mau, D.P. & Winter, T.C. (1997). *Estimating ground-water recharge from streamflow hydrographs.* **Ground Water** 35, 291-304, and Eckhardt (2008) *Hydrol. Process.* 22, 1873-1882, doi:[10.1002/hyp.6772](https://doi.org/10.1002/hyp.6772) for digital-filter BFI ranges.
+
+Important: digital-filter BFI (Lyne-Hollick, Eckhardt) is systematically higher than PART-derived BFI by 0.1 to 0.2 for the same basin (Eckhardt 2008, Table 1). Published values for humid forested Southern Appalachian basins:
+
+- PART (Wolock 2003, Santhi et al. 2008): 0.45 to 0.65
+- Digital filters (Mau & Winter 1997, Eckhardt 2008): 0.55 to 0.85
+
+We test against the digital-filter range here because that is what the notebook computes.
 
 The case passes if all four checks below are PASS:
 
-1. Lyne-Hollick BFI between 0.45 and 0.65 (inside the published Southern Appalachian range).
-2. Eckhardt BFI also between 0.45 and 0.65 (independent filter agrees).
-3. |BFI_LH − BFI_Eckhardt| < 0.10 (typical inter-method spread per Eckhardt 2008, *Hydrol. Process.* 22, 1873-1882, doi:[10.1002/hyp.6772](https://doi.org/10.1002/hyp.6772)).
+1. Lyne-Hollick BFI between 0.55 and 0.85 (digital-filter range for humid Appalachian basins).
+2. Eckhardt BFI also between 0.55 and 0.85 (independent filter agrees).
+3. |BFI_LH − BFI_Eckhardt| < 0.10 (typical inter-method spread per Eckhardt 2008).
 4. Flashiness index < 0.5 (Baker et al. 2004, *JAWRA* 40, 503-522, report 0.1-0.4 for humid forested Appalachian basins).
 
 Run the notebook to see the actual numbers and PASS/FAIL summary in the final cell.

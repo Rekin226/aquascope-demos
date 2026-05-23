@@ -1,0 +1,2 @@
+n_years,year_start,year_end,mk_trend,mk_p_value,mk_z,mk_tau,sens_slope_cfs_per_yr,sens_intercept_cfs,pettitt_year,pettitt_p_value,mean_before_cfs,mean_after_cfs,pelt_n_changepoints
+143,1882,2024,increasing,3e-06,4.6933,0.2649,146.281,7414.0,1965,3e-06,16933.4,35265.2,4

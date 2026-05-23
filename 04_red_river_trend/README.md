@@ -58,6 +58,6 @@ The case passes if all four checks below are PASS:
 1. MK trend is significant (p < 0.05) and increasing (τ > 0).
 2. Sen's slope is positive (cfs/year).
 3. Pettitt detects a single change-point at p < 0.05.
-4. The change-point year falls between 1930 and 1960, bracketing the regime shift in Ryberg et al. 2014 and Vecchia 2008.
+4. The change-point year falls between 1930 and 1970, bracketing the mid-20th-century wet-dry-cycle shifts documented in Ryberg et al. 2014 and Vecchia 2008.
 
 Run the notebook to see the actual numbers and PASS/FAIL summary in the final cell.

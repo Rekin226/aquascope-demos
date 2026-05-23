@@ -1,0 +1,6 @@
+rank,method_id,name,category,score,rationale
+1,trend_analysis,Mann-Kendall Trend Analysis,statistical,70.4,"Your dataset includes bod5, do, nh3-n, ss which are key inputs for this method. You have ~7 years of data, meeting the time-series requirement."
+2,gis_watershed_analysis,GIS-Based Watershed Land-Use Impact Analysis,remote_sensing,56.5,"Your dataset includes bod5, nh3-n, ss which are key inputs for this method."
+3,transformer_forecast,Transformer-Based Time-Series Forecasting,machine_learning,54.6,"Your dataset includes bod5, do, nh3-n which are key inputs for this method. You have ~7 years of data, meeting the time-series requirement."
+4,wqi_calculation,Water Quality Index (WQI) Computation,statistical,53.8,"Your dataset includes bod5, do, nh3-n, ss which are key inputs for this method."
+5,pca_clustering,PCA + Cluster Analysis for Source Apportionment,statistical,52.5,"Your dataset includes bod5, do, nh3-n, ss which are key inputs for this method. Your 6 stations satisfy the multi-site requirement."

@@ -1,0 +1,499 @@
+station,date,rpi,category,score_DO,score_BOD5,score_SS,score_NH3-N
+1001,2018-02-15,1.0,Non-polluted,1,1,1,1
+1001,2018-03-15,1.0,Non-polluted,1,1,1,1
+1001,2018-04-15,1.0,Non-polluted,1,1,1,1
+1001,2018-05-15,1.0,Non-polluted,1,1,1,1
+1001,2018-06-15,1.0,Non-polluted,1,1,1,1
+1001,2018-07-15,1.0,Non-polluted,1,1,1,1
+1001,2018-08-15,1.0,Non-polluted,1,1,1,1
+1001,2018-09-15,1.0,Non-polluted,1,1,1,1
+1001,2018-10-15,1.0,Non-polluted,1,1,1,1
+1001,2018-11-15,1.0,Non-polluted,1,1,1,1
+1001,2018-12-15,1.0,Non-polluted,1,1,1,1
+1001,2019-01-15,1.0,Non-polluted,1,1,1,1
+1001,2019-02-15,1.0,Non-polluted,1,1,1,1
+1001,2019-03-15,1.0,Non-polluted,1,1,1,1
+1001,2019-04-15,1.0,Non-polluted,1,1,1,1
+1001,2019-05-15,1.0,Non-polluted,1,1,1,1
+1001,2019-06-15,1.0,Non-polluted,1,1,1,1
+1001,2019-07-15,1.0,Non-polluted,1,1,1,1
+1001,2019-08-15,1.0,Non-polluted,1,1,1,1
+1001,2019-09-15,1.0,Non-polluted,1,1,1,1
+1001,2019-10-15,1.0,Non-polluted,1,1,1,1
+1001,2019-11-15,1.0,Non-polluted,1,1,1,1
+1001,2019-12-15,1.0,Non-polluted,1,1,1,1
+1001,2020-01-15,1.0,Non-polluted,1,1,1,1
+1001,2020-02-15,1.0,Non-polluted,1,1,1,1
+1001,2020-03-15,1.0,Non-polluted,1,1,1,1
+1001,2020-04-15,1.0,Non-polluted,1,1,1,1
+1001,2020-05-15,1.0,Non-polluted,1,1,1,1
+1001,2020-06-15,1.0,Non-polluted,1,1,1,1
+1001,2020-07-15,1.0,Non-polluted,1,1,1,1
+1001,2020-08-15,1.0,Non-polluted,1,1,1,1
+1001,2020-09-15,1.0,Non-polluted,1,1,1,1
+1001,2020-10-15,1.0,Non-polluted,1,1,1,1
+1001,2020-11-15,1.0,Non-polluted,1,1,1,1
+1001,2020-12-15,1.0,Non-polluted,1,1,1,1
+1001,2021-01-15,1.0,Non-polluted,1,1,1,1
+1001,2021-02-15,1.0,Non-polluted,1,1,1,1
+1001,2021-03-15,1.0,Non-polluted,1,1,1,1
+1001,2021-04-15,1.0,Non-polluted,1,1,1,1
+1001,2021-05-15,1.0,Non-polluted,1,1,1,1
+1001,2021-06-15,1.0,Non-polluted,1,1,1,1
+1001,2021-07-15,1.0,Non-polluted,1,1,1,1
+1001,2021-08-15,1.0,Non-polluted,1,1,1,1
+1001,2021-09-15,1.0,Non-polluted,1,1,1,1
+1001,2021-10-15,1.0,Non-polluted,1,1,1,1
+1001,2021-11-15,1.0,Non-polluted,1,1,1,1
+1001,2021-12-15,1.0,Non-polluted,1,1,1,1
+1001,2022-01-15,1.0,Non-polluted,1,1,1,1
+1001,2022-02-15,1.0,Non-polluted,1,1,1,1
+1001,2022-03-15,1.0,Non-polluted,1,1,1,1
+1001,2022-04-15,1.0,Non-polluted,1,1,1,1
+1001,2022-05-15,1.0,Non-polluted,1,1,1,1
+1001,2022-06-15,1.0,Non-polluted,1,1,1,1
+1001,2022-07-15,1.0,Non-polluted,1,1,1,1
+1001,2022-08-15,1.0,Non-polluted,1,1,1,1
+1001,2022-09-15,1.0,Non-polluted,1,1,1,1
+1001,2022-10-15,1.0,Non-polluted,1,1,1,1
+1001,2022-11-15,1.0,Non-polluted,1,1,1,1
+1001,2022-12-15,1.0,Non-polluted,1,1,1,1
+1001,2023-01-15,1.0,Non-polluted,1,1,1,1
+1001,2023-02-15,1.0,Non-polluted,1,1,1,1
+1001,2023-03-15,1.0,Non-polluted,1,1,1,1
+1001,2023-04-15,1.0,Non-polluted,1,1,1,1
+1001,2023-05-15,1.0,Non-polluted,1,1,1,1
+1001,2023-06-15,1.0,Non-polluted,1,1,1,1
+1001,2023-07-15,1.0,Non-polluted,1,1,1,1
+1001,2023-08-15,1.0,Non-polluted,1,1,1,1
+1001,2023-09-15,1.0,Non-polluted,1,1,1,1
+1001,2023-10-15,1.0,Non-polluted,1,1,1,1
+1001,2023-11-15,1.0,Non-polluted,1,1,1,1
+1001,2023-12-15,1.0,Non-polluted,1,1,1,1
+1001,2024-01-15,1.0,Non-polluted,1,1,1,1
+1001,2024-02-15,1.0,Non-polluted,1,1,1,1
+1001,2024-03-15,1.0,Non-polluted,1,1,1,1
+1001,2024-04-15,1.0,Non-polluted,1,1,1,1
+1001,2024-05-15,1.0,Non-polluted,1,1,1,1
+1001,2024-06-15,1.0,Non-polluted,1,1,1,1
+1001,2024-07-15,1.0,Non-polluted,1,1,1,1
+1001,2024-08-15,1.0,Non-polluted,1,1,1,1
+1001,2024-09-15,1.0,Non-polluted,1,1,1,1
+1001,2024-10-15,1.0,Non-polluted,1,1,1,1
+1001,2024-11-15,1.0,Non-polluted,1,1,1,1
+1001,2024-12-15,1.0,Non-polluted,1,1,1,1
+2001,2018-02-15,1.0,Non-polluted,1,1,1,1
+2001,2018-03-15,1.0,Non-polluted,1,1,1,1
+2001,2018-04-15,1.0,Non-polluted,1,1,1,1
+2001,2018-05-15,1.0,Non-polluted,1,1,1,1
+2001,2018-06-15,1.5,Non-polluted,1,1,3,1
+2001,2018-07-15,1.5,Non-polluted,1,1,3,1
+2001,2018-08-15,1.0,Non-polluted,1,1,1,1
+2001,2018-09-15,1.5,Non-polluted,1,1,3,1
+2001,2018-10-15,1.0,Non-polluted,1,1,1,1
+2001,2018-11-15,1.0,Non-polluted,1,1,1,1
+2001,2018-12-15,1.0,Non-polluted,1,1,1,1
+2001,2019-01-15,1.5,Non-polluted,1,1,3,1
+2001,2019-02-15,1.0,Non-polluted,1,1,1,1
+2001,2019-03-15,1.0,Non-polluted,1,1,1,1
+2001,2019-04-15,1.0,Non-polluted,1,1,1,1
+2001,2019-05-15,1.5,Non-polluted,1,1,3,1
+2001,2019-06-15,1.5,Non-polluted,1,1,3,1
+2001,2019-07-15,1.5,Non-polluted,1,1,3,1
+2001,2019-08-15,1.5,Non-polluted,1,1,3,1
+2001,2019-09-15,1.0,Non-polluted,1,1,1,1
+2001,2019-10-15,1.0,Non-polluted,1,1,1,1
+2001,2019-11-15,1.0,Non-polluted,1,1,1,1
+2001,2019-12-15,1.0,Non-polluted,1,1,1,1
+2001,2020-01-15,1.0,Non-polluted,1,1,1,1
+2001,2020-02-15,1.0,Non-polluted,1,1,1,1
+2001,2020-03-15,1.0,Non-polluted,1,1,1,1
+2001,2020-04-15,1.0,Non-polluted,1,1,1,1
+2001,2020-05-15,1.0,Non-polluted,1,1,1,1
+2001,2020-06-15,1.5,Non-polluted,1,1,3,1
+2001,2020-07-15,1.5,Non-polluted,1,1,3,1
+2001,2020-08-15,1.5,Non-polluted,1,1,3,1
+2001,2020-09-15,1.0,Non-polluted,1,1,1,1
+2001,2020-10-15,1.0,Non-polluted,1,1,1,1
+2001,2020-11-15,1.0,Non-polluted,1,1,1,1
+2001,2020-12-15,1.0,Non-polluted,1,1,1,1
+2001,2021-01-15,1.0,Non-polluted,1,1,1,1
+2001,2021-02-15,1.0,Non-polluted,1,1,1,1
+2001,2021-03-15,1.0,Non-polluted,1,1,1,1
+2001,2021-04-15,1.0,Non-polluted,1,1,1,1
+2001,2021-05-15,1.5,Non-polluted,1,1,3,1
+2001,2021-06-15,1.0,Non-polluted,1,1,1,1
+2001,2021-07-15,1.5,Non-polluted,3,1,1,1
+2001,2021-08-15,1.0,Non-polluted,1,1,1,1
+2001,2021-09-15,2.0,Non-polluted,3,1,3,1
+2001,2021-10-15,1.0,Non-polluted,1,1,1,1
+2001,2021-11-15,1.0,Non-polluted,1,1,1,1
+2001,2021-12-15,1.0,Non-polluted,1,1,1,1
+2001,2022-01-15,1.5,Non-polluted,1,1,3,1
+2001,2022-02-15,1.5,Non-polluted,1,1,3,1
+2001,2022-03-15,1.0,Non-polluted,1,1,1,1
+2001,2022-04-15,1.0,Non-polluted,1,1,1,1
+2001,2022-05-15,1.0,Non-polluted,1,1,1,1
+2001,2022-06-15,2.0,Non-polluted,3,1,3,1
+2001,2022-07-15,1.5,Non-polluted,1,1,3,1
+2001,2022-08-15,1.5,Non-polluted,1,1,3,1
+2001,2022-09-15,1.0,Non-polluted,1,1,1,1
+2001,2022-10-15,1.0,Non-polluted,1,1,1,1
+2001,2022-11-15,1.0,Non-polluted,1,1,1,1
+2001,2022-12-15,1.0,Non-polluted,1,1,1,1
+2001,2023-01-15,1.0,Non-polluted,1,1,1,1
+2001,2023-02-15,1.0,Non-polluted,1,1,1,1
+2001,2023-03-15,1.0,Non-polluted,1,1,1,1
+2001,2023-04-15,1.0,Non-polluted,1,1,1,1
+2001,2023-05-15,1.0,Non-polluted,1,1,1,1
+2001,2023-06-15,1.0,Non-polluted,1,1,1,1
+2001,2023-07-15,1.0,Non-polluted,1,1,1,1
+2001,2023-08-15,1.5,Non-polluted,1,1,3,1
+2001,2023-09-15,1.5,Non-polluted,1,1,3,1
+2001,2023-10-15,1.0,Non-polluted,1,1,1,1
+2001,2023-11-15,1.0,Non-polluted,1,1,1,1
+2001,2023-12-15,1.0,Non-polluted,1,1,1,1
+2001,2024-01-15,1.0,Non-polluted,1,1,1,1
+2001,2024-02-15,1.0,Non-polluted,1,1,1,1
+2001,2024-03-15,1.0,Non-polluted,1,1,1,1
+2001,2024-04-15,1.5,Non-polluted,1,1,3,1
+2001,2024-05-15,1.0,Non-polluted,1,1,1,1
+2001,2024-06-15,1.5,Non-polluted,1,1,3,1
+2001,2024-07-15,1.5,Non-polluted,1,1,3,1
+2001,2024-08-15,1.5,Non-polluted,1,1,3,1
+2001,2024-09-15,1.5,Non-polluted,1,1,3,1
+2001,2024-10-15,1.0,Non-polluted,1,1,1,1
+2001,2024-11-15,1.0,Non-polluted,1,1,1,1
+2001,2024-12-15,1.0,Non-polluted,1,1,1,1
+3001,2018-02-15,1.5,Non-polluted,1,1,1,3
+3001,2018-03-15,2.5,Lightly polluted,3,1,3,3
+3001,2018-04-15,2.5,Lightly polluted,3,1,3,3
+3001,2018-05-15,2.5,Lightly polluted,1,3,3,3
+3001,2018-06-15,3.0,Lightly polluted,3,3,3,3
+3001,2018-07-15,3.75,Moderately polluted,3,3,3,6
+3001,2018-08-15,3.0,Lightly polluted,3,3,3,3
+3001,2018-09-15,2.0,Non-polluted,1,1,3,3
+3001,2018-10-15,2.5,Lightly polluted,3,1,3,3
+3001,2018-11-15,2.0,Non-polluted,1,1,3,3
+3001,2018-12-15,2.0,Non-polluted,1,1,3,3
+3001,2019-01-15,2.0,Non-polluted,1,1,3,3
+3001,2019-02-15,2.5,Lightly polluted,3,1,3,3
+3001,2019-03-15,3.0,Lightly polluted,3,3,3,3
+3001,2019-04-15,2.5,Lightly polluted,3,3,1,3
+3001,2019-05-15,3.75,Moderately polluted,3,3,3,6
+3001,2019-06-15,3.0,Lightly polluted,3,3,3,3
+3001,2019-07-15,3.0,Lightly polluted,3,3,3,3
+3001,2019-08-15,3.0,Lightly polluted,3,3,3,3
+3001,2019-09-15,2.5,Lightly polluted,1,3,3,3
+3001,2019-10-15,2.5,Lightly polluted,1,3,3,3
+3001,2019-11-15,2.0,Non-polluted,1,1,3,3
+3001,2019-12-15,3.0,Lightly polluted,3,3,3,3
+3001,2020-01-15,2.5,Lightly polluted,1,3,3,3
+3001,2020-02-15,2.5,Lightly polluted,1,3,3,3
+3001,2020-03-15,2.0,Non-polluted,1,1,3,3
+3001,2020-04-15,3.75,Moderately polluted,3,3,3,6
+3001,2020-05-15,3.0,Lightly polluted,3,3,3,3
+3001,2020-06-15,3.0,Lightly polluted,3,3,3,3
+3001,2020-07-15,4.5,Moderately polluted,3,3,6,6
+3001,2020-08-15,3.0,Lightly polluted,3,3,3,3
+3001,2020-09-15,3.0,Lightly polluted,3,3,3,3
+3001,2020-10-15,2.0,Non-polluted,1,3,1,3
+3001,2020-11-15,2.5,Lightly polluted,1,3,3,3
+3001,2020-12-15,2.0,Non-polluted,1,1,3,3
+3001,2021-01-15,2.5,Lightly polluted,1,3,3,3
+3001,2021-02-15,2.0,Non-polluted,1,1,3,3
+3001,2021-03-15,2.0,Non-polluted,1,1,3,3
+3001,2021-04-15,3.0,Lightly polluted,3,3,3,3
+3001,2021-05-15,3.0,Lightly polluted,3,3,3,3
+3001,2021-06-15,3.0,Lightly polluted,3,3,3,3
+3001,2021-07-15,2.75,Lightly polluted,1,1,3,6
+3001,2021-08-15,3.0,Lightly polluted,3,3,3,3
+3001,2021-09-15,3.0,Lightly polluted,3,3,3,3
+3001,2021-10-15,2.5,Lightly polluted,1,3,3,3
+3001,2021-11-15,3.25,Moderately polluted,1,3,6,3
+3001,2021-12-15,2.5,Lightly polluted,1,3,3,3
+3001,2022-01-15,2.0,Non-polluted,1,1,3,3
+3001,2022-02-15,1.5,Non-polluted,1,1,1,3
+3001,2022-03-15,2.5,Lightly polluted,3,1,3,3
+3001,2022-04-15,2.5,Lightly polluted,3,3,1,3
+3001,2022-05-15,3.0,Lightly polluted,3,3,3,3
+3001,2022-06-15,2.5,Lightly polluted,1,3,3,3
+3001,2022-07-15,3.0,Lightly polluted,3,3,3,3
+3001,2022-08-15,3.0,Lightly polluted,3,3,3,3
+3001,2022-09-15,3.0,Lightly polluted,3,3,3,3
+3001,2022-10-15,2.5,Lightly polluted,3,1,3,3
+3001,2022-11-15,2.0,Non-polluted,1,1,3,3
+3001,2022-12-15,2.0,Non-polluted,1,1,3,3
+3001,2023-01-15,2.75,Lightly polluted,1,1,3,6
+3001,2023-02-15,2.5,Lightly polluted,1,3,3,3
+3001,2023-03-15,2.0,Non-polluted,1,1,3,3
+3001,2023-04-15,2.75,Lightly polluted,1,1,3,6
+3001,2023-05-15,2.5,Lightly polluted,1,3,3,3
+3001,2023-06-15,3.0,Lightly polluted,3,3,3,3
+3001,2023-07-15,4.5,Moderately polluted,3,6,3,6
+3001,2023-08-15,3.75,Moderately polluted,3,3,3,6
+3001,2023-09-15,3.25,Moderately polluted,1,3,3,6
+3001,2023-10-15,3.75,Moderately polluted,3,3,3,6
+3001,2023-11-15,3.25,Moderately polluted,1,3,3,6
+3001,2023-12-15,1.5,Non-polluted,1,1,3,1
+3001,2024-01-15,1.5,Non-polluted,1,1,1,3
+3001,2024-02-15,2.75,Lightly polluted,1,1,3,6
+3001,2024-03-15,2.5,Lightly polluted,1,3,3,3
+3001,2024-04-15,2.5,Lightly polluted,1,3,3,3
+3001,2024-05-15,2.5,Lightly polluted,3,1,3,3
+3001,2024-06-15,2.5,Lightly polluted,1,3,3,3
+3001,2024-07-15,3.0,Lightly polluted,3,3,3,3
+3001,2024-08-15,3.25,Moderately polluted,1,3,3,6
+3001,2024-09-15,2.75,Lightly polluted,1,1,3,6
+3001,2024-10-15,2.0,Non-polluted,1,3,1,3
+3001,2024-11-15,2.75,Lightly polluted,1,1,3,6
+3001,2024-12-15,2.5,Lightly polluted,1,3,3,3
+4001,2018-02-15,4.5,Moderately polluted,3,6,3,6
+4001,2018-03-15,4.5,Moderately polluted,6,3,3,6
+4001,2018-04-15,6.0,Moderately polluted,6,6,6,6
+4001,2018-05-15,6.25,Severely polluted,6,6,3,10
+4001,2018-06-15,6.0,Moderately polluted,6,6,6,6
+4001,2018-07-15,6.0,Moderately polluted,6,6,6,6
+4001,2018-08-15,6.0,Moderately polluted,6,6,6,6
+4001,2018-09-15,5.25,Moderately polluted,6,6,3,6
+4001,2018-10-15,6.0,Moderately polluted,6,6,6,6
+4001,2018-11-15,5.25,Moderately polluted,6,6,3,6
+4001,2018-12-15,4.5,Moderately polluted,3,3,6,6
+4001,2019-01-15,6.0,Moderately polluted,6,6,6,6
+4001,2019-02-15,4.5,Moderately polluted,6,3,3,6
+4001,2019-03-15,5.25,Moderately polluted,6,6,3,6
+4001,2019-04-15,5.25,Moderately polluted,6,6,3,6
+4001,2019-05-15,6.0,Moderately polluted,6,6,6,6
+4001,2019-06-15,7.0,Severely polluted,6,6,6,10
+4001,2019-07-15,6.0,Moderately polluted,6,6,6,6
+4001,2019-08-15,6.0,Moderately polluted,6,6,6,6
+4001,2019-09-15,4.5,Moderately polluted,6,3,3,6
+4001,2019-10-15,4.5,Moderately polluted,3,6,3,6
+4001,2019-11-15,5.25,Moderately polluted,6,6,3,6
+4001,2019-12-15,3.75,Moderately polluted,3,3,3,6
+4001,2020-01-15,3.75,Moderately polluted,3,3,3,6
+4001,2020-02-15,4.5,Moderately polluted,3,6,3,6
+4001,2020-03-15,5.25,Moderately polluted,3,6,6,6
+4001,2020-04-15,5.25,Moderately polluted,3,6,6,6
+4001,2020-05-15,5.25,Moderately polluted,6,6,3,6
+4001,2020-06-15,6.0,Moderately polluted,6,6,6,6
+4001,2020-07-15,6.0,Moderately polluted,6,6,6,6
+4001,2020-08-15,6.0,Moderately polluted,6,6,6,6
+4001,2020-09-15,5.25,Moderately polluted,6,6,3,6
+4001,2020-10-15,6.0,Moderately polluted,6,6,6,6
+4001,2020-11-15,4.5,Moderately polluted,6,3,3,6
+4001,2020-12-15,5.25,Moderately polluted,6,6,3,6
+4001,2021-01-15,3.75,Moderately polluted,3,3,3,6
+4001,2021-02-15,3.25,Moderately polluted,3,1,3,6
+4001,2021-03-15,6.0,Moderately polluted,6,6,6,6
+4001,2021-04-15,4.5,Moderately polluted,3,6,3,6
+4001,2021-05-15,6.0,Moderately polluted,6,6,6,6
+4001,2021-06-15,5.25,Moderately polluted,6,6,3,6
+4001,2021-07-15,6.0,Moderately polluted,6,6,6,6
+4001,2021-08-15,7.0,Severely polluted,6,6,6,10
+4001,2021-09-15,5.25,Moderately polluted,6,6,3,6
+4001,2021-10-15,5.25,Moderately polluted,6,6,3,6
+4001,2021-11-15,5.25,Moderately polluted,6,6,3,6
+4001,2021-12-15,5.25,Moderately polluted,6,6,3,6
+4001,2022-01-15,3.75,Moderately polluted,3,3,3,6
+4001,2022-02-15,4.5,Moderately polluted,3,3,6,6
+4001,2022-03-15,7.0,Severely polluted,6,6,6,10
+4001,2022-04-15,6.0,Moderately polluted,6,6,6,6
+4001,2022-05-15,6.0,Moderately polluted,6,6,6,6
+4001,2022-06-15,6.0,Moderately polluted,6,6,6,6
+4001,2022-07-15,5.25,Moderately polluted,3,6,6,6
+4001,2022-08-15,5.25,Moderately polluted,6,6,3,6
+4001,2022-09-15,5.5,Moderately polluted,6,3,3,10
+4001,2022-10-15,5.25,Moderately polluted,6,6,3,6
+4001,2022-11-15,6.0,Moderately polluted,6,6,6,6
+4001,2022-12-15,4.5,Moderately polluted,3,6,3,6
+4001,2023-01-15,4.5,Moderately polluted,6,3,3,6
+4001,2023-02-15,5.25,Moderately polluted,3,6,6,6
+4001,2023-03-15,4.5,Moderately polluted,3,3,6,6
+4001,2023-04-15,4.5,Moderately polluted,3,6,3,6
+4001,2023-05-15,7.0,Severely polluted,6,6,6,10
+4001,2023-06-15,6.0,Moderately polluted,6,6,6,6
+4001,2023-07-15,6.0,Moderately polluted,6,6,6,6
+4001,2023-08-15,6.0,Moderately polluted,6,6,6,6
+4001,2023-09-15,5.25,Moderately polluted,6,6,3,6
+4001,2023-10-15,5.25,Moderately polluted,3,6,6,6
+4001,2023-11-15,5.25,Moderately polluted,6,6,3,6
+4001,2023-12-15,5.25,Moderately polluted,6,6,3,6
+4001,2024-01-15,3.25,Moderately polluted,3,1,3,6
+4001,2024-02-15,4.5,Moderately polluted,3,6,3,6
+4001,2024-03-15,4.5,Moderately polluted,3,6,3,6
+4001,2024-04-15,4.5,Moderately polluted,6,3,3,6
+4001,2024-05-15,5.25,Moderately polluted,6,6,3,6
+4001,2024-06-15,5.25,Moderately polluted,6,3,6,6
+4001,2024-07-15,6.25,Severely polluted,6,3,6,10
+4001,2024-08-15,5.25,Moderately polluted,6,6,3,6
+4001,2024-09-15,7.0,Severely polluted,6,6,6,10
+4001,2024-10-15,5.25,Moderately polluted,6,6,3,6
+4001,2024-11-15,4.5,Moderately polluted,6,3,3,6
+4001,2024-12-15,4.5,Moderately polluted,3,6,3,6
+5001,2018-02-15,3.75,Moderately polluted,3,3,3,6
+5001,2018-03-15,3.75,Moderately polluted,3,3,3,6
+5001,2018-04-15,4.5,Moderately polluted,3,3,6,6
+5001,2018-05-15,5.25,Moderately polluted,6,3,6,6
+5001,2018-06-15,6.0,Moderately polluted,6,6,6,6
+5001,2018-07-15,4.5,Moderately polluted,3,3,6,6
+5001,2018-08-15,6.0,Moderately polluted,6,6,6,6
+5001,2018-09-15,4.5,Moderately polluted,6,3,3,6
+5001,2018-10-15,3.75,Moderately polluted,3,3,3,6
+5001,2018-11-15,3.75,Moderately polluted,3,3,3,6
+5001,2018-12-15,3.75,Moderately polluted,3,3,3,6
+5001,2019-01-15,3.25,Moderately polluted,3,1,3,6
+5001,2019-02-15,3.75,Moderately polluted,3,3,3,6
+5001,2019-03-15,3.25,Moderately polluted,3,1,3,6
+5001,2019-04-15,5.25,Moderately polluted,6,3,6,6
+5001,2019-05-15,3.75,Moderately polluted,3,3,3,6
+5001,2019-06-15,5.25,Moderately polluted,6,6,3,6
+5001,2019-07-15,4.5,Moderately polluted,3,3,6,6
+5001,2019-08-15,4.5,Moderately polluted,3,3,6,6
+5001,2019-09-15,5.25,Moderately polluted,6,3,6,6
+5001,2019-10-15,3.75,Moderately polluted,3,3,3,6
+5001,2019-11-15,5.25,Moderately polluted,6,3,6,6
+5001,2019-12-15,3.25,Moderately polluted,1,3,3,6
+5001,2020-01-15,3.75,Moderately polluted,3,3,3,6
+5001,2020-02-15,3.25,Moderately polluted,3,1,3,6
+5001,2020-03-15,3.75,Moderately polluted,3,3,3,6
+5001,2020-04-15,3.25,Moderately polluted,3,1,3,6
+5001,2020-05-15,4.0,Moderately polluted,6,1,3,6
+5001,2020-06-15,5.25,Moderately polluted,6,6,3,6
+5001,2020-07-15,6.0,Moderately polluted,6,6,6,6
+5001,2020-08-15,5.25,Moderately polluted,6,3,6,6
+5001,2020-09-15,4.5,Moderately polluted,3,3,6,6
+5001,2020-10-15,4.0,Moderately polluted,1,3,6,6
+5001,2020-11-15,3.75,Moderately polluted,3,3,3,6
+5001,2020-12-15,3.0,Lightly polluted,3,3,3,3
+5001,2021-01-15,3.25,Moderately polluted,3,1,3,6
+5001,2021-02-15,3.25,Moderately polluted,3,1,3,6
+5001,2021-03-15,2.75,Lightly polluted,1,1,3,6
+5001,2021-04-15,3.75,Moderately polluted,3,3,3,6
+5001,2021-05-15,4.5,Moderately polluted,3,3,6,6
+5001,2021-06-15,3.75,Moderately polluted,3,3,3,6
+5001,2021-07-15,5.25,Moderately polluted,6,3,6,6
+5001,2021-08-15,4.5,Moderately polluted,3,3,6,6
+5001,2021-09-15,5.25,Moderately polluted,6,3,6,6
+5001,2021-10-15,3.25,Moderately polluted,3,3,1,6
+5001,2021-11-15,3.25,Moderately polluted,1,3,3,6
+5001,2021-12-15,3.25,Moderately polluted,3,1,3,6
+5001,2022-01-15,3.0,Lightly polluted,3,3,3,3
+5001,2022-02-15,3.25,Moderately polluted,3,1,3,6
+5001,2022-03-15,4.5,Moderately polluted,3,3,6,6
+5001,2022-04-15,4.5,Moderately polluted,6,3,3,6
+5001,2022-05-15,4.5,Moderately polluted,3,3,6,6
+5001,2022-06-15,3.75,Moderately polluted,3,3,3,6
+5001,2022-07-15,6.0,Moderately polluted,6,6,6,6
+5001,2022-08-15,3.75,Moderately polluted,3,3,3,6
+5001,2022-09-15,3.75,Moderately polluted,3,3,3,6
+5001,2022-10-15,3.75,Moderately polluted,3,3,3,6
+5001,2022-11-15,3.75,Moderately polluted,3,3,3,6
+5001,2022-12-15,3.75,Moderately polluted,3,3,3,6
+5001,2023-01-15,3.25,Moderately polluted,3,1,3,6
+5001,2023-02-15,3.25,Moderately polluted,3,1,3,6
+5001,2023-03-15,3.75,Moderately polluted,3,3,3,6
+5001,2023-04-15,3.25,Moderately polluted,3,3,1,6
+5001,2023-05-15,4.5,Moderately polluted,3,3,6,6
+5001,2023-06-15,3.75,Moderately polluted,3,3,3,6
+5001,2023-07-15,4.5,Moderately polluted,6,3,3,6
+5001,2023-08-15,4.5,Moderately polluted,3,3,6,6
+5001,2023-09-15,4.5,Moderately polluted,3,3,6,6
+5001,2023-10-15,4.5,Moderately polluted,3,3,6,6
+5001,2023-11-15,3.75,Moderately polluted,3,3,3,6
+5001,2023-12-15,3.75,Moderately polluted,3,3,3,6
+5001,2024-01-15,3.75,Moderately polluted,3,3,3,6
+5001,2024-02-15,2.75,Lightly polluted,1,1,3,6
+5001,2024-03-15,3.75,Moderately polluted,3,3,3,6
+5001,2024-04-15,3.25,Moderately polluted,3,3,1,6
+5001,2024-05-15,4.5,Moderately polluted,3,6,3,6
+5001,2024-06-15,4.5,Moderately polluted,3,3,6,6
+5001,2024-07-15,6.0,Moderately polluted,6,6,6,6
+5001,2024-08-15,5.25,Moderately polluted,6,6,3,6
+5001,2024-09-15,4.5,Moderately polluted,6,3,3,6
+5001,2024-10-15,3.75,Moderately polluted,3,3,3,6
+5001,2024-11-15,3.0,Lightly polluted,3,3,3,3
+5001,2024-12-15,3.25,Moderately polluted,3,1,3,6
+6001,2018-02-15,2.75,Lightly polluted,1,1,3,6
+6001,2018-03-15,2.0,Non-polluted,1,1,3,3
+6001,2018-04-15,2.5,Lightly polluted,3,1,3,3
+6001,2018-05-15,2.5,Lightly polluted,3,1,3,3
+6001,2018-06-15,3.0,Lightly polluted,3,3,3,3
+6001,2018-07-15,4.0,Moderately polluted,6,1,3,6
+6001,2018-08-15,3.75,Moderately polluted,3,3,3,6
+6001,2018-09-15,3.0,Lightly polluted,3,3,3,3
+6001,2018-10-15,2.5,Lightly polluted,3,1,3,3
+6001,2018-11-15,2.5,Lightly polluted,3,3,1,3
+6001,2018-12-15,2.0,Non-polluted,3,1,3,1
+6001,2019-01-15,2.0,Non-polluted,1,1,3,3
+6001,2019-02-15,1.5,Non-polluted,1,1,3,1
+6001,2019-03-15,2.0,Non-polluted,1,1,3,3
+6001,2019-04-15,2.5,Lightly polluted,3,1,3,3
+6001,2019-05-15,3.25,Moderately polluted,3,1,3,6
+6001,2019-06-15,2.5,Lightly polluted,3,1,3,3
+6001,2019-07-15,3.75,Moderately polluted,3,3,6,3
+6001,2019-08-15,3.25,Moderately polluted,3,1,3,6
+6001,2019-09-15,2.5,Lightly polluted,3,1,3,3
+6001,2019-10-15,3.0,Lightly polluted,3,3,3,3
+6001,2019-11-15,2.0,Non-polluted,1,1,3,3
+6001,2019-12-15,2.5,Lightly polluted,3,1,3,3
+6001,2020-01-15,2.5,Lightly polluted,3,1,3,3
+6001,2020-02-15,2.5,Lightly polluted,1,3,3,3
+6001,2020-03-15,2.5,Lightly polluted,3,1,3,3
+6001,2020-04-15,3.25,Moderately polluted,3,1,3,6
+6001,2020-05-15,3.0,Lightly polluted,3,3,3,3
+6001,2020-06-15,4.5,Moderately polluted,3,3,6,6
+6001,2020-07-15,3.75,Moderately polluted,3,3,3,6
+6001,2020-08-15,2.5,Lightly polluted,3,1,3,3
+6001,2020-09-15,3.75,Moderately polluted,3,3,6,3
+6001,2020-10-15,2.5,Lightly polluted,3,1,3,3
+6001,2020-11-15,1.5,Non-polluted,1,1,1,3
+6001,2020-12-15,2.5,Lightly polluted,3,1,3,3
+6001,2021-01-15,2.0,Non-polluted,1,1,3,3
+6001,2021-02-15,2.0,Non-polluted,1,1,3,3
+6001,2021-03-15,1.5,Non-polluted,3,1,1,1
+6001,2021-04-15,2.5,Lightly polluted,3,1,3,3
+6001,2021-05-15,3.0,Lightly polluted,3,3,3,3
+6001,2021-06-15,5.25,Moderately polluted,6,3,6,6
+6001,2021-07-15,4.5,Moderately polluted,3,3,6,6
+6001,2021-08-15,3.25,Moderately polluted,3,1,6,3
+6001,2021-09-15,2.5,Lightly polluted,3,1,3,3
+6001,2021-10-15,2.5,Lightly polluted,3,1,3,3
+6001,2021-11-15,2.5,Lightly polluted,3,1,3,3
+6001,2021-12-15,2.5,Lightly polluted,3,1,3,3
+6001,2022-01-15,2.0,Non-polluted,1,1,3,3
+6001,2022-02-15,2.0,Non-polluted,1,1,3,3
+6001,2022-03-15,2.5,Lightly polluted,3,1,3,3
+6001,2022-04-15,2.75,Lightly polluted,1,1,3,6
+6001,2022-05-15,3.25,Moderately polluted,3,1,3,6
+6001,2022-06-15,3.75,Moderately polluted,3,3,6,3
+6001,2022-07-15,2.5,Lightly polluted,3,1,3,3
+6001,2022-08-15,3.75,Moderately polluted,3,3,6,3
+6001,2022-09-15,3.0,Lightly polluted,3,3,3,3
+6001,2022-10-15,2.5,Lightly polluted,3,1,3,3
+6001,2022-11-15,2.5,Lightly polluted,3,1,3,3
+6001,2022-12-15,2.5,Lightly polluted,3,1,3,3
+6001,2023-01-15,2.5,Lightly polluted,3,1,3,3
+6001,2023-02-15,2.5,Lightly polluted,3,1,3,3
+6001,2023-03-15,2.0,Non-polluted,1,1,3,3
+6001,2023-04-15,3.25,Moderately polluted,3,1,3,6
+6001,2023-05-15,2.75,Lightly polluted,3,1,6,1
+6001,2023-06-15,3.0,Lightly polluted,3,3,3,3
+6001,2023-07-15,3.75,Moderately polluted,3,3,3,6
+6001,2023-08-15,2.5,Lightly polluted,3,1,3,3
+6001,2023-09-15,3.0,Lightly polluted,3,3,3,3
+6001,2023-10-15,3.75,Moderately polluted,3,3,3,6
+6001,2023-11-15,2.0,Non-polluted,1,1,3,3
+6001,2023-12-15,2.0,Non-polluted,3,1,3,1
+6001,2024-01-15,2.0,Non-polluted,1,1,3,3
+6001,2024-02-15,2.5,Lightly polluted,3,1,3,3
+6001,2024-03-15,2.5,Lightly polluted,3,1,3,3
+6001,2024-04-15,2.0,Non-polluted,1,1,3,3
+6001,2024-05-15,2.5,Lightly polluted,3,1,3,3
+6001,2024-06-15,3.75,Moderately polluted,3,3,6,3
+6001,2024-07-15,3.0,Lightly polluted,3,3,3,3
+6001,2024-08-15,3.75,Moderately polluted,3,3,3,6
+6001,2024-09-15,4.0,Moderately polluted,3,1,6,6
+6001,2024-10-15,2.5,Lightly polluted,3,1,3,3
+6001,2024-11-15,2.5,Lightly polluted,3,1,3,3
+6001,2024-12-15,2.5,Lightly polluted,3,1,3,3
